@@ -1,29 +1,24 @@
 # Whitepaper
 
-WorldLand의 비전, 기술 아키텍처, 토크노믹스에 대한 상세한 내용은 백서를 참조하세요.
+## WorldLand Technical Whitepaper
 
-## 📄 Download Whitepaper
+WorldLand is building the first decentralized computing infrastructure that cryptographically verifies AI execution. By combining a purpose-built blockchain with **Proof-of-Compute**, we enable a trustless market for GPU resources.
 
-<a href="/Worldland_whitepaper2026.pdf" target="_blank" class="whitepaper-btn">
-  📥 WorldLand Whitepaper 2026 (PDF)
-</a>
+## Preview & Download
 
-<iframe src="/Worldland_whitepaper2026.pdf" width="100%" height="800px" style="border: 1px solid #e2e8f0; border-radius: 8px; margin-top: 20px;"></iframe>
+You can view the full whitepaper below or download it directly.
 
-<style>
-.whitepaper-btn {
-  display: inline-block;
-  padding: 12px 24px;
-  background: linear-gradient(135deg, #6366f1, #06b6d4);
-  color: white !important;
-  text-decoration: none !important;
-  border-radius: 8px;
-  font-weight: 600;
-  transition: transform 0.2s, box-shadow 0.2s;
-}
+::: info PDF Download
+[**📄 Download WorldLand Whitepaper (PDF)**](/WorldLand_Whitepaper_v1.0.pdf)
+:::
 
-.whitepaper-btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4);
-}
-</style>
+<div class="pdf-container" style="margin-top: 2rem;">
+    <iframe src="/WorldLand_Whitepaper_v1.0.pdf" width="100%" height="1000px" style="border: 1px solid var(--vp-c-border); background: #000;">
+        This browser does not support PDFs. Please download the PDF to view it: 
+        <a href="/WorldLand_Whitepaper_v1.0.pdf">Download PDF</a>
+    </iframe>
+</div>
+
+## Abstract
+
+Artificial Intelligence (AI) is transforming every sector of the global economy, yet the computational resources required to train and run these models are becoming increasingly centralized. WorldLand addresses this by creating a decentralized network where anyone can contribute GPU resources and anyone can access them, with cryptographic guarantees that the work was performed correctly.
