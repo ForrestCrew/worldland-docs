@@ -9,13 +9,13 @@ WorldLand is building the first decentralized computing infrastructure that cryp
 You can view the full whitepaper below or download it directly.
 
 ::: info PDF Download
-[**📄 Download WorldLand Whitepaper (PDF)**](/WorldLand_Whitepaper_v1.0.pdf)
+[**📄 Download WorldLand Whitepaper (PDF)**](/WorldLand_Whitepaper_EN.pdf)
 :::
 
 <div class="pdf-container" style="margin-top: 2rem;">
-    <iframe src="/WorldLand_Whitepaper_v1.0.pdf" width="100%" height="1000px" style="border: 1px solid var(--vp-c-border); background: #000;">
+    <iframe src="/WorldLand_Whitepaper_EN.pdf" width="100%" height="1000px" style="border: 1px solid var(--vp-c-border); background: #000;">
         This browser does not support PDFs. Please download the PDF to view it: 
-        <a href="/WorldLand_Whitepaper_v1.0.pdf">Download PDF</a>
+        <a href="/WorldLand_Whitepaper_EN.pdf">Download PDF</a>
     </iframe>
 </div>
 
